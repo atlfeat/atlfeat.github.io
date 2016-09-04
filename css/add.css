@@ -9,6 +9,8 @@ Additional Styles (required)
 	padding:10px;
 	background:rgba(0,0,0,0.6);
 	text-shadow:none;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 #myCarousel .list-group {
 	position:absolute;
